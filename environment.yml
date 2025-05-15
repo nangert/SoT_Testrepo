@@ -1,0 +1,8 @@
+﻿name: SoT_Test
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - scripts-of-tribute==1.0.3
